@@ -1,0 +1,118 @@
+{
+    "initialSku": "946755",
+    "goods_id": "2257",
+    "goods_info": {
+        "id": "2257",
+        "price": "200",
+        "title": "床",
+        "imgUrl": "https: //img.yzcdn.cn/2.jpg"
+    },
+    "quota": "300",
+    "selectedNum": "1",
+    "selectedSkuComb": {
+        "id": "2257",
+        "price": "100",
+        "s1": "30349",
+        "s2": "1193",
+        "s3": "0",
+        "stock_num": "111"
+    },
+    "sku": {
+        "tree": [
+            {
+                "k": "颜色",
+                "v": [
+                    {
+                        "id": "30349",
+                        "name": "红色",
+                        "imgUrl": "https: //img.yzcdn.cn/2.jpg"
+                    },
+                    {
+                        "id": "121500",
+                        "name": "蓝色",
+                        "imgUrl": "http: //www.pptbz.com/pptpic/UploadFiles_6909/201203/2012031220134655.jpg"
+                    },
+                    {
+                        "id": "1215",
+                        "name": "白色",
+                        "imgUrl": "http: //pic1.nipic.com/2008-12-30/200812308231244_2.jpg"
+                    }
+                ],
+                "k_s": "s1"
+            },
+            {
+                "k": "尺寸",
+                "v": [
+                    {
+                        "id": "1193",
+                        "name": "100*100",
+                        "imgUrl": "http: //pic.58pic.com/58pic/14/03/02/58V58PICTFk_1024.jpg"
+                    },
+                    {
+                        "id": "119301",
+                        "name": "100*200",
+                        "imgUrl": "https: //img.yzcdn.cn/2.jpg"
+                    },
+                    {
+                        "id": "119302",
+                        "name": "200*200",
+                        "imgUrl": "https: //img.yzcdn.cn/2.jpg"
+                    }
+                ],
+                "k_s": "s2",
+                
+            }
+        ],
+        "list": [
+            {
+                "id": "2257",
+                "price": "15000",
+                "s1": "30349",
+                "s2": "1193",
+                "s3": "0",
+                "stock_num": "110"
+            },
+            {
+                "id": "2257",
+                "price": "100",
+                "s1": "30349",
+                "s2": "119301",
+                "s3": "0",
+                "stock_num": "120"
+            },
+            {
+                "id": "2257",
+                "price": "100",
+                "s1": "30349",
+                "s2": "119302",
+                "s3": "0",
+                "stock_num": "130"
+            },
+            {
+                "id": "2257",
+                "price": "100",
+                "s1": "30349",
+                "s2": "119303",
+                "s3": "0",
+                "stock_num": "140"
+            },
+            {
+                "id": "2257",
+                "price": "1520",
+                "s1": "121500",
+                "s2": "1193",
+                "s3": "0",
+                "stock_num": "140"
+            },
+            {
+                "id": "2257",
+                "price": "1520",
+                "s1": "1215",
+                "s2": "1193",
+                "s3": "0",
+                "stock_num": "300"
+            }
+        ],
+        
+    }
+}
