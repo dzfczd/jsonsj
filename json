@@ -1,1 +1,33 @@
 
+{
+    "name": "全屋定制",
+    "id": "110611",
+   
+    "products": [
+        {
+            "id": "918#  ",
+            "price": "￥4760起",
+            "name":"两室一厅",
+            "src": "http://pic49.nipic.com/file/20140916/19605635_164601251000_2.jpg"
+        },
+        {
+            "id": "919#  ",
+            "price": "￥4760起",
+            "name":"三室一厅",
+            "src": "http://pic67.nipic.com/file/20150525/4667949_104211632000_2.jpg"
+        },
+        {
+            "id": "920#  ",
+            "price": "￥4760起",
+             "name":"两室两厅",
+            "src": "http://nkjjq.cn/uploads/product/main_picture/3102107/normal_1.jpg"
+        },
+        {
+            "id": "921#  ",
+            "price": "￥4760起",
+            "name":"三室两厅",
+            "src": "http://pic68.nipic.com/file/20150518/189223_190200347000_2.jpg"
+        }
+        
+    ]
+}
